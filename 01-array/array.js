@@ -1,4 +1,4 @@
 // define an array with 5 elements
-const array = [];
+const alphabet = ['a', 'b', 'c', 'd', 'e'];
 // console.log() the 3rd element
-console.log();
+console.log(alphabet[3]);
