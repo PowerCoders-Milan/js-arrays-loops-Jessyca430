@@ -8,6 +8,6 @@ const multiplesOf = (number, limit) => {
     }
     return multiples
 }
-constmultiplesofTwo = multiplesOf(2,20);
-console.log(multiplesTwo);
+const multiplesOfTwo = multiplesOf(2,20);
+console.log(multiplesOfTwo);
 
